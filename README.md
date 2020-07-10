@@ -1,7 +1,7 @@
 # Mask R-CNN for Checking Form
 ## Introduction
 
-[Mask-RCNN](https://github.com/matterport/Mask_RCNN) provides a method of object instance segmentation. The approach detects an object and provides a segmentation mask which covers the object.
+[Mask-RCNN](https://github.com/matterport/Mask_RCNN) provides a method of object instance segmentation. The approach detects an object and provides a segmentation mask which covers the object. Uses the [code](https://github.com/matterport/Mask_RCNN/tree/master/samples/balloon) provided by the "Splash of Color" guide listed in resources below as a template.
 
 ## Description
 
